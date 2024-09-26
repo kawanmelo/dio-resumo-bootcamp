@@ -1,4 +1,4 @@
-# 🚀 Resumo de Aprendizado do Bootcamp Azure para Prova AZ-900
+# 🚀 Resumo de Aprendizado do Bootcamp Azure Essentials
 
 Este resumo consolida o aprendizado dos laboratórios práticos do bootcamp inicial sobre a Azure, abordando conceitos essenciais para a prova AZ-900.
 
